@@ -10,7 +10,10 @@
                         <router-link to="/" class="text-white hover:text-blue-300">Main page</router-link>
                     </li>
                     <li class="">
-                        <router-link to="/" class="text-white hover:text-blue-300">Courses</router-link>
+                        <router-link to="/courses" class="text-white hover:text-blue-300">Courses</router-link>
+                    </li>
+                    <li class="">
+                        <router-link to="/events" class="text-white hover:text-blue-300">Events</router-link>
                     </li>
                     <li class="">
                         <router-link to="/" class="text-white hover:text-blue-300">About Us</router-link>
